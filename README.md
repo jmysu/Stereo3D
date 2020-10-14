@@ -3,7 +3,7 @@ Some computer vision stereo 3D/structured light related...<br>
 For the OpenCV related, please check this one:https://github.com/jmysu/QT5_Opencv4.4_MinGW
 
 <br><br>
-__Astra SDK demo hand position__ (w/ VS2019)<br>
+__Astra SDK demo hand position__, mm depth repeatability! (w/ VS2019)<br>
 Hope their OpenCV5 integration release soon...<br>
 <img src="pic/Astra3D_Hand.gif" width=480 height=300/> <br>
 
