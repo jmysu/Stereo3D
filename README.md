@@ -3,7 +3,10 @@ Some computer vision stereao 3D related
 
 
 <br><br>
-<img src="pic/Astra3D_Hand.gif" width=480 height=300/>
+__Astra SDK demo hand position__ <br>
+<img src="pic/Astra3D_Hand.gif" width=480 height=300/> <br>
+
+__Astra SDK demo body gesture__ <br>
 <img src="pic/Astra3D_Body.gif" width=480 height=300/>
 
 <br><br>
