@@ -3,11 +3,11 @@ Some computer vision stereao 3D related...<br>
 
 
 <br><br>
-__Astra SDK demo hand position__ <br>
-Hope their OpenCV5 intergration release soon...<br>
+__Astra SDK demo hand position__ (w/ VS2019)<br>
+Hope their OpenCV5 integration release soon...<br>
 <img src="pic/Astra3D_Hand.gif" width=480 height=300/> <br>
 
-__Astra SDK demo body gesture__ <br>
+__Astra SDK demo body gesture__ (w/ VS2019)<br>
 <img src="pic/Astra3D_Body.gif" width=480 height=300/>
 
 <br><br>
