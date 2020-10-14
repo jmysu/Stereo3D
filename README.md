@@ -1,9 +1,10 @@
 # Stereo3D [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
-Some computer vision stereao 3D related...
+Some computer vision stereao 3D related...<br>
 
 
 <br><br>
 __Astra SDK demo hand position__ <br>
+Hope their OpenCV5 intergration release soon...<br>
 <img src="pic/Astra3D_Hand.gif" width=480 height=300/> <br>
 
 __Astra SDK demo body gesture__ <br>
