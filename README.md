@@ -8,6 +8,7 @@ For the Astra SDK, to fix __C2039 error__ with __VSC2019__, might need to add "#
 see reference:https://sciter.com/forums/topic/problems-with-hellocpp-solution-on-win10-vs2019/
 
 <br>
+
 __Astra SDK demo hand position__, mm depth repeatability! (w/ VS2019)<br>
 Hope their OpenCV5 integration release soon...<br>
 <img src="pic/Astra3D_Hand.gif" width=480 height=300/> <br>
