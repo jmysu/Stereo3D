@@ -2,7 +2,7 @@
 Some computer vision stereo 3D/structured light related...<br>
 For the OpenCV related, please check this one:https://github.com/jmysu/QT5_Opencv4.4_MinGW
 
-For the Astra SDK, to fix C2039 error with VSC2019, might need to add "#include <stdexcept>"...
+For the Astra SDK, to fix __C2039 error__ with VSC2019, might need to add "#include <stdexcept>"...<br>
 see reference:https://sciter.com/forums/topic/problems-with-hellocpp-solution-on-win10-vs2019/
 
 <br><br>
