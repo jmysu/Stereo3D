@@ -4,7 +4,7 @@ For the OpenCV related, please check this one:https://github.com/jmysu/QT5_Openc
 
 <br>
 <br>
-For the Astra SDK, to fix __C2039__ error with __VSC2019__, might need to add "#include &lt;stdexcept&gt;"...<br>
+For the Astra SDK, to fix C2039 error with VSC2019, might need to add "#include &lt;stdexcept&gt;"...<br>
 see reference:https://sciter.com/forums/topic/problems-with-hellocpp-solution-on-win10-vs2019/
 
 <br>
