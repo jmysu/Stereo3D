@@ -1,6 +1,6 @@
 # Stereo3D [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
-Some computer vision stereao 3D related...<br>
-
+Some computer vision stereo 3D/structured light related...<br>
+For the OpenCV related, please check this one:https://github.com/jmysu/QT5_Opencv4.4_MinGW
 
 <br><br>
 __Astra SDK demo hand position__ (w/ VS2019)<br>
