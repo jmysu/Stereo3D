@@ -3,8 +3,8 @@ Some computer vision stereao 3D related
 
 
 <br><br>
-<img src="pic/Astra3D_hand.gif" width=640/>
-<img src="pic/Astra3D_body.gif" width=640/>
+<img src="pic/Astra3D_Hand.gif" width=640/>
+<img src="pic/Astra3D_Body.gif" width=640/>
 
 <br><br>
 
