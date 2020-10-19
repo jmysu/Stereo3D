@@ -19,6 +19,11 @@ __Astra SDK demo body gesture__ (w/ VS2019)<br>
 
 <br><br>
 
+ __QT5 app for Orbbec Astra depth/IR camera w/ OpenNI2+OpenCV4...__<br>
+<img src="pic/AstraColorDepth_OpenNI2.jpg" width=480 height=300/> <br>
+
+<br>
+<br>
 
 ## References
   - [Astra SDK] (https://orbbec3d.com/develop/#windows) Obbec Astra SDK.
